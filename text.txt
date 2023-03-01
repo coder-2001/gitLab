@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello wooorl
+=======
+hello page
+hello world
+>>>>>>> b0e66d9b676a8ff9771711dc1b951ee7bb4b3330
